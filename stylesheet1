@@ -1,0 +1,11 @@
+head {
+  color: blue;
+}
+
+h1 {
+  font-style:oblique;
+}
+
+body {
+  font-kerning: initial;
+}
